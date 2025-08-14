@@ -1,4 +1,4 @@
-# ToDoApp
+# To Do App
 Advanced Java 17+ Swing To‑Do List app with add/remove/schedule, reminders, search/filter, double‑click completion, and persistent storage. Pop‑up notifications for scheduled tasks. Modern UI and keyboard shortcuts.
 The project lets you manage tasks with modern features like scheduled reminders, real-time search, double‑click completion, and persistent storage — all built with clean Java 17+ code.
 
@@ -99,6 +99,5 @@ When the app starts:
 ---
 
 ## License
-[](https://github.com/YourUsername/AdvancedToDoApp#license)
 
-This project was created as part of the Elevate Labs Java Developer Internship and is free to use, modify, and share.
+This is a learning-focused project. Feel free to adapt, enhance, or repurpose it in any way that suits your needs.
